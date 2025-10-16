@@ -22,8 +22,8 @@ Esta é a fase mais importante, pois a questão de pesquisa norteará todo o tra
 | :--- | :--- |
 | Artigos publicados em periódicos revisados por pares. | Teses, dissertações, livros, capítulos de livros, anais de congresso. |
 | Estudos que abordem a aplicação de ao menos uma metodologia ativa. | Artigos que apenas citam metodologias ativas sem aplicá-las ou analisá-las. |
-| Publicações nos idiomas português, inglês ou espanhol. | Artigos em outros idiomas não compreendidos pelo pesquisador. |
-| Artigos publicados nos últimos 10 anos (2015-2025) para garantir a atualidade. | Publicações anteriores a 2015. |
+| Publicações nos idiomas português ou inglês | Artigos em outros idiomas. |
+| Artigos publicados nos últimos 5 anos (2021-2025) para garantir a atualidade. | Publicações anteriores a 2021. |
 | Estudos que apresentem resultados de pesquisa (empíricos ou teóricos). | Artigos de opinião, editoriais, resenhas. |
 | Acesso ao texto completo disponível. | Artigos cujo texto completo não pôde ser recuperado. |
 
